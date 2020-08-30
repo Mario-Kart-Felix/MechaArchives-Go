@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechaArchives Go", "MechaArchives Go\MechaArchives Go.csproj", "{3BA21A36-8A60-4306-BFE2-D944BDD0238D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA21A36-8A60-4306-BFE2-D944BDD0238D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA21A36-8A60-4306-BFE2-D944BDD0238D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA21A36-8A60-4306-BFE2-D944BDD0238D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3BA21A36-8A60-4306-BFE2-D944BDD0238D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA21A36-8A60-4306-BFE2-D944BDD0238D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA21A36-8A60-4306-BFE2-D944BDD0238D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA3EBDE-2562-4AF7-B7BB-57C2B63EDE36}
+	EndGlobalSection
+EndGlobal
